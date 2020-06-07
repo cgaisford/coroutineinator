@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#275629</color>
+    <color name="colorAccent">#FF9800</color>
+
+    <color name="iconColor">#212121</color>
+    <color name="dividerColor">#EEEEEE</color>
+    <color name="cardBackgroundColor">#FFFFFF</color>
+    <color name="systemBackgroundColor">#F1F2F6</color>
+
+    <color name="ic_launcher_background">#000000</color>
+
+</resources>
